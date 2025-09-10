@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "tabA7",
+    "price": 10000
+  },
+  {
+    "id": 2,
+    "name": "iphone",
+    "price": 50000
+  },
+  {
+    "id": 3,
+    "name": "laptop",
+    "price": 25000
+  },
+  {
+    "id": 4,
+    "name": "samsung",
+    "price": 15000
+  },
+  {
+    "id": 5,
+    "name": "appel",
+    "price": 20000
+  },
+  {
+    "id": 6,
+    "name": "appel",
+    "price": 20000
+  }
+]

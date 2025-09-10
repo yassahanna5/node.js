@@ -1,0 +1,19 @@
+{
+  "name": "yassanodejs",
+  "version": "1.0.0",
+  "description": "restapi",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "keywords": [],
+  "author": "yassa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
